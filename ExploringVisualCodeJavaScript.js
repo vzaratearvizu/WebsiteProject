@@ -34,5 +34,9 @@ let camelCaseIGuess = "first Word Is Lowercase";
 const SNAKE_CASE_I_GUESS = "EVERYTHING_IS_CAPPED_PLUS_THAT_UNDERSCORE_SYMBOL_INBETWEEN";
 
 // 'console.log' can output variables into the, well, console  ._.
-console.log("stringy string, string string :)")
-console.log(camelCaseIGuess)
+console.log("stringy string, string string :)");
+console.log(camelCaseIGuess);
+console.log("hi" + " there");
+
+// mathmatical operations go like
+let mathstuff = 8 * 9 + 1 - 1;
